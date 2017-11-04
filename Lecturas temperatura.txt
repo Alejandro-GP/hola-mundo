@@ -1,0 +1,9 @@
+Sensores:
+PI: pistola
+SE: sensor arduino externo
+SI: sensor arduino interno
+TN: termómetro negro
+TE: Texas instruments Externo
+TI: Texas instruments Interno
+===============================================================
+SE 432 (13,7º según mi fórmula) PI 16,6
